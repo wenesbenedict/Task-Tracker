@@ -1,0 +1,34 @@
+:root{
+
+--bg:#0D0E15;
+
+--surface:#1A1C29;
+
+--surface-light:#23263A;
+
+--red:#E11D48;
+
+--cyan:#06B6D4;
+
+--yellow:#FACC15;
+
+--green:#22C55E;
+
+--white:#F8FAFC;
+
+--gray:#94A3B8;
+
+--border:#2D3148;
+
+/* aliases */
+--card:var(--surface);
+
+--primary:var(--red);
+
+--shadow:0 10px 30px rgba(0,0,0,.45);
+
+--transition:.25s ease;
+
+--radius:18px;
+
+}
