@@ -30,6 +30,20 @@ Database:
 - MongoDB Atlas
 - Mongoose
 
+## Screenshots
+
+### Dashboard
+![Dashboard](assets/Dashboard.png)
+
+### Login Page
+![Login](assets/LoginPage.png)
+
+### History Page
+![History](assets/HistoryPage.png)
+
+### Settings Page
+![Settings](assets/SettingsPage.png)
+
 ## Demo Credentials
 
 Email: testuser@gmail.com
